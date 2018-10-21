@@ -7,4 +7,4 @@
 
 -From the results we achieved, we conclude that bagging classifier outperformed the other classification models. 
 
--More tweaks coming up soon regarding feature selection for bagging classifier. 
+-More tweaks coming up soon regarding feature importance for bagging classifier. 
